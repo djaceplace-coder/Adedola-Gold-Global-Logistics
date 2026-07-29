@@ -1,0 +1,6 @@
+{
+  "name": "Adedola Gold Global Logistics",
+  "description": "Full-Spectrum Freight, Logistics & Market Sourcing",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
